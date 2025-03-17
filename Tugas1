@@ -1,0 +1,22 @@
+
+1. Deskripsikan ulang perbedaan Mikroprosesor dan Mikrokontroler:
+
+Mikroprosesor:
+Merupakan sebuah Central Processing Unit (CPU) yang dikemas dalam satu chip.
+Fungsi utamanya adalah untuk memproses data dan menjalankan instruksi.
+Memerlukan komponen tambahan seperti memori (RAM dan ROM) serta perangkat input/output (I/O) untuk dapat berfungsi sebagai sistem komputer yang lengkap.
+Lebih fleksibel dan cocok untuk aplikasi yang membutuhkan daya pemrosesan tinggi dan kemampuan ekspansi yang besar. Contoh: komputer pribadi (PC).
+Mikrokontroler:
+Merupakan sebuah sistem komputer lengkap dalam satu chip.
+Terdiri dari CPU, memori (RAM dan ROM), serta perangkat I/O yang terintegrasi di dalamnya.
+Dirancang untuk aplikasi yang spesifik dan terkontrol, seperti perangkat elektronik konsumen, sistem otomasi industri, dan perangkat embedded.
+Lebih hemat daya dan biaya dibandingkan mikroprosesor, serta lebih mudah diimplementasikan dalam sistem yang kecil dan ringkas.
+Perbedaan Utama dalam Tabel:
+
+Fitur	Mikroprosesor	Mikrokontroler
+Fungsi	CPU (pemrosesan data)	Sistem komputer lengkap (CPU, memori, I/O)
+Komponen	Memerlukan komponen tambahan	Komponen terintegrasi dalam satu chip
+Aplikasi	Komputer pribadi, server, aplikasi umum	Perangkat embedded, kontrol otomatis, dll.
+Fleksibilitas	Tinggi, dapat diekspansi	Terbatas, dirancang untuk tujuan spesifik
+Konsumsi Daya	Lebih tinggi	Lebih rendah
+Biaya	Lebih tinggi	Lebih rendah
